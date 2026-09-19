@@ -1,0 +1,488 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section1 {
+    height: 90vh;
+    background-image: url(river-flowing-through-forest-generative-al2-min.jpg);
+    object-fit: cover;
+}
+
+.text1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.section1 p {
+    font-size: 25px;
+    width: 900px;
+}
+
+.buttonleft button {
+    border-radius: 20px;
+    height: 50px;
+    width: 150px;
+    background-color: burlywood;
+    color: white;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+.buttonright button {
+    border-radius: 20px;
+    height: 50px;
+    width: 170px;
+    font-size: 17px;
+    font-family: sans-serif;
+    background-color: transparent;
+    color: white;
+
+}
+
+.button {
+    display: flex;
+    gap: 15px;
+
+}
+
+.section2 {
+    height: 150vh;
+}
+
+.box1 {
+    height: 230px;
+    width: 250px;
+    background-color: burlywood;
+}
+
+.box2 {
+    height: 230px;
+    width: 250px;
+    background-color: burlywood;
+}
+
+.box3 {
+    height: 230px;
+    width: 250px;
+    background-color: burlywood;
+}
+
+.box4 {
+    height: 230px;
+    width: 250px;
+    background-color: burlywood;
+}
+
+header {
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -100px;
+}
+
+.section2 h3 {
+    color: white;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    text-align: center;
+    position: relative;
+    padding-top: 120px;
+}
+
+.text2 h1 {
+    font-size: 55px
+}
+
+.text2 p {
+    font-size: 20px;
+}
+
+.text2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 15px;
+}
+
+.section2 img {
+    height: 350px;
+    width: 350px;
+    object-fit: cover;
+}
+
+.img2 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+    gap: 20px;
+    justify-content: center;
+}
+
+.contanier2 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.contanier2 h1 {
+    font-size: 60px;
+}
+
+.contanier2 button {
+    height: 45px;
+    width: 145px;
+    border-radius: 20px;
+    background-color: burlywood;
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.section3 {
+    height: 160vh;
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    justify-content: center;
+    align-items: center;
+}
+
+.text3 h1 {
+    font-size: 55px;
+    color: white;
+}
+
+.text3 p {
+    font-size: 20px;
+    width: 600px;
+    color: white;
+}
+
+.text3 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-top: 50px;
+}
+
+.boxa {
+    background-image: url(Untitled-164.jpg);
+    object-fit: cover;
+    height: 450px;
+    width: 400px;
+}
+
+.boxb {
+    background-image: url(Untitled-16.jpg);
+    object-fit: cover;
+    height: 450px;
+    width: 400px;
+}
+
+.boxc {
+    background-image: url(r6.jpg);
+    object-fit: cover;
+    height: 450px;
+    width: 400px;
+}
+
+.boxd {
+    background-image: url(7894.jpg);
+    object-fit: cover;
+    height: 450px;
+    width: 400px;
+}
+
+.boxe {
+    background-image: url(1244.jpg);
+    object-fit: cover;
+    height: 450px;
+    width: 400px;
+}
+
+.boxf {
+    background-image: url(8.jpg);
+    object-fit: cover;
+    height: 450px;
+    width: 400px;
+}
+
+.contanier3 {
+    flex-wrap: wrap;
+    display: flex;
+    gap: 20px;
+    width: 1500px;
+    justify-content: center;
+    align-items: center;
+}
+
+span {
+    font-size: 20px;
+    color: white;
+}
+
+.section4 {
+    height: 100vh;
+    background-image: url(gfgfggfggg-min.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 130px;
+}
+
+.section4 p {
+    width: 500px;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.section4 h1 {
+    font-size: 55px;
+    color: white;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    line-height: 30px;
+
+}
+
+.left button {
+    height: 45px;
+    width: 170px;
+    border-radius: 15px;
+    font-size: 15px;
+    background-color: transparent;
+    color: white;
+    font-size: 17px;
+    letter-spacing: 1px;
+
+}
+
+.left button :hover {
+    background-color: white;
+    color: black;
+}
+
+input {
+    height: 50px;
+    width: 220px;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
+}
+
+.a {
+    display: flex;
+    gap: 15px;
+}
+
+.b input {
+    width: 455px;
+}
+
+input {
+    padding: 30px;
+}
+
+.c input {
+    height: 130px;
+    width: 455px;
+}
+
+.d button {
+    width: 455px;
+    height: 40px;
+    font-family: sans-serif;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+.section5 {
+    height: 100vh;
+
+}
+
+.header5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+}
+
+.header5 h1 {
+    font-size: 70px;
+}
+
+.section5 img {
+    height: 300px;
+    width: 300px;
+}
+
+.contanier5 {
+    display: flex;
+    gap: 35px;
+    justify-content: center;
+    align-items: center;
+}
+
+.section5 {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.box1a {
+    height: 100px;
+    width: 220px;
+    background-color: burlywood;
+}
+
+.imgbox1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+@media(max-width:700px) {
+    header {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .section1 p {
+        width: 400px;
+    }
+
+    .img2 {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .section3 {
+        height: 100%;
+    }
+
+    .section2 img {
+        height: 300px;
+        width: 300px;
+    }
+
+    .section2 {
+        height: 100%;
+        padding: 10px;
+    }
+
+    .section3 h1 {
+        font-size: 40px;
+    }
+
+    .section3 p {
+        width: 300px;
+    }
+
+    .contanier3 {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .boxa {
+        height: 300px;
+        width: 300px;
+    }
+
+    .boxb {
+        height: 300px;
+        width: 300px;
+    }
+
+    .boxc {
+        height: 300px;
+        width: 300px;
+
+    }
+
+    .boxd {
+        height: 300px;
+        width: 300px;
+    }
+
+    .boxf {
+        height: 300px;
+        width: 300px;
+    }
+
+    .boxe {
+        height: 300px;
+        width: 300px;
+    }
+    .section4{
+        flex-direction: column;
+        height: 100%;
+        padding: 10px;
+    }
+    .section4 p{
+      font-size: 15px;  
+      width: 300px;
+      text-align: center;
+    }
+    .section4 h1{
+        font-size: 30px;
+    }
+    .left{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .right{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
